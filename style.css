@@ -34,3 +34,16 @@ pre {
 	margin-right: 35%;
     font-size: 18px;
 }
+
+ul {
+    border-style: solid;
+    border-color: #303030;
+    font-size: 18px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+li {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
