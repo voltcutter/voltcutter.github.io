@@ -61,8 +61,7 @@ li {
 }
 
 div.gameLink {
-	margin-left: 35%;
-	margin-right: 35%;
+	margin: auto;
 	border-style: solid;
 	border-color: #303030;
 	padding: 10px;
